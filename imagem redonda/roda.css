@@ -1,0 +1,11 @@
+img{
+    /*arredonda a imagem*/
+    border-radius: 100%;
+    /*deixa a imagem quadrada*/
+    height: 200px;
+    width: 200px;
+    /*nao deixa que a imagem fique esticada*/
+    object-fit: cover;
+    /*deixa a imagem centralizada*/
+    background-position: center center;
+  }
